@@ -1,0 +1,11 @@
+--2019-11-05 19:45:00--  https://static01.nyt.com/images/2019/09/04/business/04chinaclone-01/merlin_160087014_de761d9a-4360-402d-a15b-ddeff775760d-superJumbo.jpg?quality=90
+Resolving static01.nyt.com (static01.nyt.com)... 151.101.193.164, 151.101.129.164, 151.101.65.164, ...
+Connecting to static01.nyt.com (static01.nyt.com)|151.101.193.164|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 462345 (452K) [image/jpeg]
+Saving to: ‘merlin_160087014_de761d9a-4360-402d-a15b-ddeff775760d-superJumbo.jpg?quality=90’
+
+            merlin_1600   0%[                             ]       0  --.-KB/s               merlin_160087014_de761d 100%[============================>] 451.51K  --.-KB/s    in 0.03s   
+
+2019-11-05 19:45:00 (15.5 MB/s) - ‘merlin_160087014_de761d9a-4360-402d-a15b-ddeff775760d-superJumbo.jpg?quality=90’ saved [462345/462345]
+
