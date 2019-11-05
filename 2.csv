@@ -1,3 +1,7 @@
 Git homework CSV file
+<<<<<<< HEAD
 
 update the file in master branch
+=======
+change in feature1 branch
+>>>>>>> feature1
